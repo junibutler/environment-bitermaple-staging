@@ -10,6 +10,9 @@ dependencies:
 - name: gojenx
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.13
+- name: nodejenx
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.7
 - name: reactjenx
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
