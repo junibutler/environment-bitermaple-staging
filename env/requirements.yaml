@@ -7,12 +7,3 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.build.cd.jenkins-x.io
   version: 2.3.58
-- name: goagainjenx
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: gojenx
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.8
-- name: nodejenx
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.4
