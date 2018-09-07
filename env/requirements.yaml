@@ -13,6 +13,9 @@ dependencies:
 - name: nodejenx
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.8
+- name: react-dwjw
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: reactjenx
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.4
